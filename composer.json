@@ -1,0 +1,10 @@
+{
+  "name": "gecervantes/328/Teamz",
+  "description": "Student athlete sports highlights and recruitment web app",
+  "authors": [
+    { "name": "Giovan Cervantes", "email": "giovancervantes@yahoo.com" }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
